@@ -1,0 +1,22 @@
+.nutrition {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .nutrition h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .nutrition ul {
+    list-style: square;
+    padding-left: 20px;
+  }
+  
+  .nutrition li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #555;
+  }
+  
