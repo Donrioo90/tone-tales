@@ -2,10 +2,10 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./index.css";
-import Navbar from "./Navbar";
-import Home from "./Home";
-import Nutrition from "./Nutrition";
-import Login from "./Login";
+import Navbar from "./components/Navbar";
+import Home from "./components/Home";
+import Nutrition from "./components/Nutrition";
+import Login from "./components/Login";
 
 const App = () => {
   return (
